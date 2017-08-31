@@ -1,27 +1,11 @@
 # Author settings
-name: 梁窠金
-title: Android 开发工程师
-address: 中国, 上海
-email: liungkejin@foxmail.com
-github: liungkejin
+name: meiwenzi
+title: FPGA
+address: 中国, 苏州
+email: yuechengcheng93@outlook.com
+github: meiwenzi
 gavatar: /assets/img/avatar.JPG
 workHistory:
-- work4:
-  company: 上海本趣网络科技有限公司
-  location: 中国, 上海
-  title: Android & Unity & AR 开发工程师
-  started: 2016
-  duration: (2016.5 - Present)
-  description: 开发 "无他相机" 安卓端，使用 unity 实现 3D 特效
-
-- work3:
-  company: 上海大银幕网络科技有限公司
-  location: 中国，上海
-  title: Android 开发工程师
-  started: 2015
-  duration: (2015.10 - 2016.5)
-  description: 开发和维护 "公证电影" App
-
 - work2:
   company: 比亚迪精密制造上海分公司
   location: 中国，上海
@@ -40,12 +24,12 @@ workHistory:
 
 educationHistory:
 - education1:
-  organization: 安徽大学
+  organization: 河南理工大学
   degree: 学士
-  major: 化学工程与工艺
+  major: 电子信息工程
   started: 2010
-  duration: (2010.9 - 2014.7)
-  description: 自学 C/C++, Java, Linux, 培训并参加过 ACM 比赛
+  duration: (2012.9 - 2016.7)
+  description: FPGA、C
 languages:
 - language1:
   name: 中文
