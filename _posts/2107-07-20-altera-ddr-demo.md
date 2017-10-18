@@ -10,7 +10,7 @@ excerpt_separator: "```"
 # 一、DDR ip的生成
 1.在ip Catalog下选择 Arria 10 External Memory Interfaces 
 
-![](https://github.com/meiwenzi/meiwenzi.github.io/blob/master/assets/img/ddr_newipvariation.PNG)
+![ddr_newipvariation](https://github.com/meiwenzi/meiwenzi.github.io/blob/master/assets/img/ddr_newipvariation.PNG)
 
 # 二、DDR ip的调试
 
