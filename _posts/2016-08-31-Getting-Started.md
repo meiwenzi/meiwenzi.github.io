@@ -1,7 +1,7 @@
 ---
 layout: post_layout
 title: 开始篇
-time: 2018年08月31日 星期四
+time: 2016年08月31日 星期四
 location: 苏州
 pulished: true
 excerpt_separator: "```"
