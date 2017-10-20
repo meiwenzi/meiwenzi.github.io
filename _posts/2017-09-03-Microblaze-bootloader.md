@@ -3,7 +3,7 @@ layout: post_layout
 title: Microblaze bootloader的实现
 time: 2017年09月03日 星期日
 location: 苏州
-pulished: true
+pulished: false
 excerpt_separator: "```"
 ---
 
