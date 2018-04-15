@@ -13,7 +13,9 @@ highlight: true
 
 timezone: Asia/Shanghai
 
-# kramdown是markdown的超集,在Jekyll中支持, 可以用于Github搭建博客. 和Jekyll一样, 使用Ruby作为核心语言. 由于Maruku不再更新, Github推荐使用kramdown作为markdown解析. # kramdown作为markdown解析器号称速度快, 比PHP markdown和Maruku都要快几倍.
+# kramdown是markdown的超集,在Jekyll中支持, 可以用于Github搭建博客. 
+# 和Jekyll一样, 使用Ruby作为核心语言. 由于Maruku不再更新, Github推荐使用kramdown作为markdown解析. 
+# kramdown作为markdown解析器号称速度快, 比PHP markdown和Maruku都要快几倍.
 markdown: kramdown
 kramdown:
   auto_ids: true
