@@ -3,7 +3,7 @@ layout: blog_layout
 ---
 
 {% for post in site.posts %}
-	{% if post.pulished %}
+	{% if post.pulished %}  <!-- 2018-4-15 meiwenzi bolg is published or not-->
 		<section class="smenu">
 			{{ post.time  | date: "%Y/%m/%d" }}
 			&nbsp;&nbsp;
