@@ -6,12 +6,20 @@ email: yuechengcheng93@outlook.com
 github: meiwenzi
 gavatar: /assets/img/avatar.JPG
 workHistory:
+- work3:
+  company: 上海赛米德半导体科技有限公司
+  location: 中国，苏州
+  title: FPGA 工程师
+  started: 2020
+  duration: (2020.4 - )
+  description: 
+  
 - work2:
   company: 苏州海的机电科技有限公司
   location: 中国，苏州
   title: FPGA 工程师
   started: 2016
-  duration: (2016.12 - )
+  duration: (2016.12 - 2020.4)
   description: 
 
 - work1:
